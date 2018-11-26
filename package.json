@@ -1,6 +1,6 @@
 {
   "name": "@ansver/npm-test",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "It is my first nmp package. I'm welcome!",
   "main": "index.js",
   "scripts": {
