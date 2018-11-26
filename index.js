@@ -1,4 +1,4 @@
 
-function writeMessage(message) {
+export function writeMessage(message) {
   console.log(message);
 }
